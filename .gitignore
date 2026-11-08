@@ -1,0 +1,9 @@
+/target
+/dist
+out/
+
+# Your settings, including the API token
+.env
+
+# Transcripts saved with the s key
+mimikiku-*.txt
