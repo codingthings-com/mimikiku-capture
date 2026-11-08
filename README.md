@@ -1,6 +1,8 @@
 # Mimikiku Capture
 
-Terminal app that captures system audio (whatever your speakers play) or a mic, streams it to a Mimikiku server, and shows the speaker-labeled transcript as it arrives.
+Terminal app that captures system audio (whatever your speakers play) or a mic, streams it to a [Mimikiku](https://github.com/codingthings-com/mimikiku) server, and shows the speaker-labeled transcript as it arrives.
+
+**You need a running Mimikiku server.** Set one up first: [codingthings-com/mimikiku](https://github.com/codingthings-com/mimikiku).
 
 ## Features
 
